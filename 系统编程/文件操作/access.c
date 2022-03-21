@@ -12,6 +12,7 @@ int main(void)
 	else
 	{
 		puts("file exist!");
+		puts("Congratulations!");
 	}
 	return 0;
 }
